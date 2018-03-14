@@ -1,4 +1,4 @@
-require "./simple_unit"
+require_relative "simple_unit"
 require "test/unit"
 
 class TestAdder < Test::Unit::TestCase

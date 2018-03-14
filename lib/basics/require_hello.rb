@@ -1,4 +1,4 @@
-require "./hello"
+require_relative "hello"
 
 if __FILE__ == $0
 
